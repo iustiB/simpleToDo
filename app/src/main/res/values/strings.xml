@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">simpletodo</string>
+    <string name="hello_world">Hello Iusti</string>
+    <string name="button_test">Click me!</string>
+</resources>

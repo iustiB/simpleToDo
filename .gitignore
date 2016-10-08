@@ -1,0 +1,13 @@
+#generated files
+ bin/
+ gen/
+ out/
+ build/
+
+ local.properties
+
+ .idea
+ *.iml
+
+ .gradle
+ gradle.properties
